@@ -68,5 +68,15 @@
     "linkedin": "https://www.linkedin.com/in/hamza-shaukat-b5551925a/",
     "github": "https://github.com/mZeeDevv",
     "twitter": "https://twitter.com/mZeeDev"
+  },
+  {
+    "id": "8",
+    "name": "Stephen Blevins",
+    "title": "Full Stack Developer",
+    "picture": "/faces/sblevins.jpg",
+    "facebook": "",
+    "linkedin": "https://www.linkedin.com/in/sblevins-dev/",
+    "github": "https://github.com/sblevins-dev",
+    "twitter": ""
   }
 ]
